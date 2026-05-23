@@ -200,6 +200,6 @@ This tool extends that research background into a live, interactive application 
 **Saheli Majumder**
 MSc Computer Science · St. Xavier's College, Kolkata
 BS Data Science · IIT Madras
-UGC-NET qualified (Computer Science) — 99.22 percentile
+
 
 [GitHub](https://github.com/sahelimajumder01) · [LinkedIn](https://www.linkedin.com/in/sahelimajumder001)
